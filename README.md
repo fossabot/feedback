@@ -1,4 +1,6 @@
 # holman/feedback
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Ffeedback.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Ffeedback?ref=badge_shield)
+
 
 This is a quick little ask-me-anything type of repository.
 
@@ -42,3 +44,7 @@ into some of the older threads.
 If you have something quick and easy, just ping me on Twitter. 140 characters
 makes everyone more efficient. I'm [@holman](https://twitter.com/holman) on
 Twitter.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Ffeedback.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Ffeedback?ref=badge_large)
